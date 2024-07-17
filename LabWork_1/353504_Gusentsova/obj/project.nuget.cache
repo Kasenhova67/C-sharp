@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZ3R5HP4YDjJr7e5S+ORk36obdM8ME5FpE7n4VKIJ4y+AVGg4TVop6l36WQGC9W22aW66bRk/jyv3wAloz+CXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\353504_Gusentsova\\353504_Gusentsova\\353504_Gusentsova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

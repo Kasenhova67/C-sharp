@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\bin\Debug\net8.0\353504_Gusentsova.exe
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\bin\Debug\net8.0\353504_Gusentsova.deps.json
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\bin\Debug\net8.0\353504_Gusentsova.runtimeconfig.json
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\bin\Debug\net8.0\353504_Gusentsova.dll
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\bin\Debug\net8.0\353504_Gusentsova.pdb
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.AssemblyInfo.cs
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.csproj.CopyComplete
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.dll
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\refint\353504_Gusentsova.dll
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.pdb
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\353504_Gusentsova.genruntimeconfig.cache
+C:\Users\user\RiderProjects\353504_Gusentsova\353504_Gusentsova\obj\Debug\net8.0\ref\353504_Gusentsova.dll
