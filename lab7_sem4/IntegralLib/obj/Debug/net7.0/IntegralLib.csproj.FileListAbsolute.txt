@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\lab7\IntegralLib\bin\Debug\net7.0\IntegralLib.deps.json
+C:\Users\user\source\repos\lab7\IntegralLib\bin\Debug\net7.0\IntegralLib.dll
+C:\Users\user\source\repos\lab7\IntegralLib\bin\Debug\net7.0\IntegralLib.pdb
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\IntegralLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\IntegralLib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\IntegralLib.AssemblyInfo.cs
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\IntegralLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\IntegralLib.dll
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\refint\IntegralLib.dll
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\IntegralLib.pdb
+C:\Users\user\source\repos\lab7\IntegralLib\obj\Debug\net7.0\ref\IntegralLib.dll

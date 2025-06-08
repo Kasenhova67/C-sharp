@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "353504_Gusentsova/1.0.0": {
+        "dependencies": {
+          "IntegralLib": "1.0.0"
+        },
+        "runtime": {
+          "353504_Gusentsova.dll": {}
+        }
+      },
+      "IntegralLib/1.0.0": {
+        "runtime": {
+          "IntegralLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "353504_Gusentsova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegralLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
